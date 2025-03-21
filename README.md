@@ -1,1 +1,1 @@
-# nfo-tienda
+# info-tienda
